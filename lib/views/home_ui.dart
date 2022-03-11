@@ -11,7 +11,12 @@ class _HomeUIState extends State<HomeUI> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
+      backgroundColor: Colors.red,
+      appBar: AppBar(
+        title: Text(
+          'สายด่วนชวนกิน',
+        ),
+      ),
     );
   }
 }
