@@ -1,6 +1,7 @@
-# flutter_app_msu2
+# มหาวิทยาลัยมหาสารคาม
+**flutter_app_msu2**
 
-A new Flutter project.
+*ทดสอบโปปเจค*
 
 ## Getting Started
 
